@@ -1,4 +1,4 @@
-name: Deploy feature to non-production environments
+name: Deploy feature to production environments
 
 on:
   push:
