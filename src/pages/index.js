@@ -29,6 +29,8 @@ const IndexPage = () => {
             <button>Submit</button>
           </p>
 
+          <h4 className="title">Launch Date Announced!</h4>
+
           <footer className='footer'>
             <a
               href="https://acloud.guru"
